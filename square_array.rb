@@ -1,6 +1,5 @@
-def square_array(numbers)
-  
- square_array.each do |elemnt|
- print " #{elemnt **2}"
- 
+def square_array(array)
+ square_array.each do |element|
+ print " #{element **2}"
+
  end
